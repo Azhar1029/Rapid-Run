@@ -1,0 +1,17 @@
+server:
+  port: 8083
+
+spring:
+  application:
+    name: execution-service
+
+jwt:
+  secret: ${jwtSecret}
+
+judge0:
+  url: https://judge0-ce.p.rapidapi.com
+  api-key: ${JUDGE0_API_KEY:}
+
+logging:
+  level:
+    com.rapidrun: DEBUG

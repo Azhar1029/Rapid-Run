@@ -1,0 +1,5 @@
+# Project exclude paths
+/rapid-run-backend/api-gateway/target/
+/rapid-run-backend/auth-service/target/
+/rapid-run-backend/execution-service/target/
+/rapid-run-backend/project-service/target/
