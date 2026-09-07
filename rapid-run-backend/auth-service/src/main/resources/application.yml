@@ -18,6 +18,10 @@ spring:
       hibernate:
         dialect: org.hibernate.dialect.MySQLDialect
 
+url: jdbc:mysql://rapidrun-auth-rapid-run.c.aivencloud.com:19462/rapidrun_auth?ssl-mode=REQUIRED&useSSL=true&requireSSL=true
+username: ${aivenname}
+password: ${aivenpass}
+
 jwt:
   secret: ${jwtSecret}
   expiration: 86400000
