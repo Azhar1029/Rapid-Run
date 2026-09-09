@@ -34,7 +34,7 @@
             <artifactId>spring-boot-maven-plugin</artifactId>
             <version>${spring-boot.version}</version>
             <configuration>
-                <mainClass>com.rapidrun.auth.AuthServiceApplication</mainClass>
+                <mainClass>com.rapidrun.gateway.ApiGatewayApplication</mainClass>
                 <excludes>
                     <exclude><groupId>org.projectlombok</groupId><artifactId>lombok</artifactId></exclude>
                 </excludes>
