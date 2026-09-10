@@ -283,13 +283,13 @@ API Gateway (port 8080)
 ## 👨‍💻 Developer
 
 **Mohammad Azhar Ansari**
-BCA Student — IGNOU (Enrollment: 2400303031)
+BCA Student — IGNOU
 
 ---
 
 ## 📄 License
 
-This project is developed as a BCA final year project at IGNOU, New Delhi.
+This project is developed as a BCA final year project at IGNOU.
 
 ---
 
