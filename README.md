@@ -18,9 +18,20 @@ A full-stack, web-based Integrated Development Environment (IDE) that allows use
 
 ## 📸 Screenshots
 
-| Login | Dashboard | Editor |
-|---|---|---|
-| Dark themed login | Project management | 3-panel IDE layout |
+### Login Page
+![Login](https://raw.githubusercontent.com/Azhar1029/Rapid-Run/main/Images/login.png)
+
+### Register Page
+![Register](https://raw.githubusercontent.com/Azhar1029/Rapid-Run/main/Images/register.png)
+
+### Dashboard
+![Dashboard](https://raw.githubusercontent.com/Azhar1029/Rapid-Run/main/Images/dashboard.png)
+
+### Editor
+![Editor](https://raw.githubusercontent.com/Azhar1029/Rapid-Run/main/Images/editor.png)
+
+### Output
+![Output](https://raw.githubusercontent.com/Azhar1029/Rapid-Run/main/Images/output.png)
 
 ---
 
@@ -283,5 +294,5 @@ This project is developed as a BCA final year project at IGNOU, New Delhi.
 ---
 
 <div align="center">
-Made with ❤️ by Mohammad Azhar Ansari
+Made by Mohammad Azhar Ansari
 </div>
