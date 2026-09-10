@@ -28,7 +28,7 @@ A full-stack, web-based Integrated Development Environment (IDE) that allows use
 ![Dashboard](https://raw.githubusercontent.com/Azhar1029/Rapid-Run/main/Images/dashboard.png)
 
 ### Editor
-![Editor](https://raw.githubusercontent.com/Azhar1029/Rapid-Run/main/Images/editor.png)
+![Editor](https://raw.githubusercontent.com/Azhar1029/Rapid-Run/main/Images/code.png)
 
 ### Output
 ![Output](https://raw.githubusercontent.com/Azhar1029/Rapid-Run/main/Images/output.png)
